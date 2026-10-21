@@ -1,2 +1,1 @@
-learning
-Today I am learning Git workflow
+Today I learned Git basics.
